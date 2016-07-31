@@ -1,0 +1,5 @@
+Implements the LLNL algorithms for one pass computation of moments. Intel TBB is used for parallelization.
+
+Todo:
+- variance with column-specific decay factors
+- covariance matrix with Newey-West

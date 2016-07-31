@@ -1,2 +1,0 @@
-- variance with column-specific decay factors
-- covariance matrix with Newey-West
